@@ -1,0 +1,28 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "This is a service to shorten long urls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhehao9758/url-shortener.git"
+  },
+  "author": "Zhehao Xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zhehao9758/url-shortener/issues"
+  },
+  "homepage": "https://github.com/Zhehao9758/url-shortener#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "mongodb": "^6.1.0"
+  }
+}
