@@ -24,6 +24,9 @@ return long and short url pairs
 3. redirect to corresponding long url by a short one input.
 4. delete short url of a user.
 
+## Highlights
+validator, encryption, env configuration, database transactions.
+
 ## Run Steps
 1. clone the repository
 2. npm install
