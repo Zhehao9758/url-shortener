@@ -23,3 +23,10 @@ Note: if base url never change, we can just store short code, but there is a fun
 return long and short url pairs
 3. redirect to corresponding long url by a short one input.
 4. delete short url of a user.
+
+## Run Steps
+1. clone the repository
+2. npm install
+3. configure .env file correctly
+4. npm start
+5. test the api, no GUI provided.
